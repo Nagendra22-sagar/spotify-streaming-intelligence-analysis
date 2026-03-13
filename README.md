@@ -104,7 +104,6 @@ Key tasks:
 * Distribution visualization
 * Feature relationship exploration
 
-Example Python code:
 
 
 ### 4. Power BI Dashboard
@@ -138,6 +137,7 @@ Visualizations Included:
 
 ## Power BI Dashboard Preview
 
+![Spotify Dashboard](images/dashboard_preview.png)
 
 
 ## Key Insights
@@ -200,3 +200,4 @@ Potential future enhancements include:
 ## Author
 
 Nagendra V Sagar
+
