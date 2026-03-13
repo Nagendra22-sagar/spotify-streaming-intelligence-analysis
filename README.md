@@ -137,7 +137,7 @@ Visualizations Included:
 
 ## Power BI Dashboard Preview
 
-![Spotify Dashboard](images/dashboard_preview.png)
+![Spotify Dashboard](dashboard.png)
 
 
 ## Key Insights
@@ -200,4 +200,5 @@ Potential future enhancements include:
 ## Author
 
 Nagendra V Sagar
+
 
